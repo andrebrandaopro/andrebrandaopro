@@ -1,7 +1,7 @@
 # André Brandão
 
 ## About Me
-Hello there! 👋 I'm André Brandão, a Data Analyst and aspiring Data Scientist currently pursuing a degree in Science and Technology. I'm passionate about uncovering insights from data and leveraging advanced analytics to solve complex problems.
+Hello there! 👋 I'm André Brandão, a Data Analyst and aspiring Data Scientist with a strong academic background, holding a Bachelor's degree in Science and Technology and currently pursuing both a Master's and a Bachelor's degree in Computer Engineering at UFRN. I'm passionate about AI and solving problems with data-driven solutions.
 
 ## 🚀 Areas of Interest
 - Data Analysis

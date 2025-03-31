@@ -45,11 +45,11 @@ Hello there! 👋 I'm André Brandão, a passionate Data Analyst and aspiring Da
 
 ## 💼 Certifications
 
-- Análise de Dados com SQL (Udemy)
-- Excel para Análise de Dados (Preditiva.ai)
-- Python para Ciência de Dados (DataCamp)
-- Análise de Dados (Google)
-- Machine Learning - Stanford University (Coursera)
+- SQL for data analysis (Udemy)
+- Excel for data analysis (Preditiva.ai)
+- Python Data Science (DataCamp)
+- Data Analysis Certification (Google)
+- Machine Learning - Stanford University (Coursera) - Deeplearning.ai
 
 ## 🌱 Currently Exploring
 - Advanced Deep Learning Architectures
